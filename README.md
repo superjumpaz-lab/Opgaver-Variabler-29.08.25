@@ -1,0 +1,1 @@
+# Opgaver-Variabler-29.08.25
