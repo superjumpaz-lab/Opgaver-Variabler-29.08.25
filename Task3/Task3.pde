@@ -1,6 +1,6 @@
-String adress = "Sorgenfrivej";
+String adress;
 
-int a = 50*50;
-int b = 10/2;
+int sumMulti;
+int sumDivide;
 
-String besked = "Gå hjem og sov";
+String message;
