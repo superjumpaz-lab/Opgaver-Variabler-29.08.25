@@ -1,0 +1,10 @@
+String teachername = "Tess Løvgreen"; 
+int days = 365;
+String City = "København";
+Boolean sandt = true;
+int c = 60*24;
+float d = 22.12;
+println("Hej, jeg heddder "+teachername);
+Boolean falsk = false;
+float dum = 2.2 + 33;
+char s = 'S';
